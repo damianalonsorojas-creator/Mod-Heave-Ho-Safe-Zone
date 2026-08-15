@@ -1,2 +1,3 @@
 # Mod-Heave-Ho-Safe-Zone
-Es un mod donde aparecerá un círculo en pantalla cada cierto tiempo. El objetivo es que todos los jugadores se coloquen dentro del círculo antes de que el temporizador llegue a cero. Si al terminar el tiempo algún jugador queda fuera todos pierden
+A circle will appear on screen every few seconds. The goal is for all players to get inside the circle before the timer runs out. If any player is left outside when time ends, everyone loses
+
